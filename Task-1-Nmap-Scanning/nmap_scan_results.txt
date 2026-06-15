@@ -1,0 +1,8 @@
+# Nmap 7.95 scan initiated Mon Jun 15 07:42:18 2026 as: /usr/lib/nmap/nmap --privileged -oN namp_scan_results.txt 192.168.159.13
+Nmap scan report for 192.168.159.13
+Host is up (0.00055s latency).
+All 1000 scanned ports on 192.168.159.13 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+MAC Address: B0:7D:64:2C:ED:63 (Intel Corporate)
+
+# Nmap done at Mon Jun 15 07:42:39 2026 -- 1 IP address (1 host up) scanned in 21.22 seconds
